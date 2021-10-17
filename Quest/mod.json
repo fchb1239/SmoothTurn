@@ -1,0 +1,20 @@
+
+{
+    "_QPVersion": "0.1.1",
+    "name": "Smooth Turn",
+    "id": "smoothturn",
+    "author": "fchb1239",
+    "version": "1.0.0",
+    "packageId": "com.loudshirtgames.flyingsquirrelchase",
+    "packageVersion": "1.12.3",
+    "description": "SMOOOOOOOOOOOOOOOOOOOOOOOOTH",
+    "coverImage": "cover.png",
+    "modFiles": [
+        "libsmoothturn.so"
+    ],
+    "libraryFiles": [
+        "libbeatsaber-hook_3_3_3.so"
+    ],
+     "dependencies": [
+    ]
+}
